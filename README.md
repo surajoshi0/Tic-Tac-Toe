@@ -29,3 +29,5 @@ This Tic Tac Toe game is a fun, interactive game playable directly in the browse
 1. Clone the repository:
    ```bash
    git clone https://github.com/yourusername/tic-tac-toe.git
+## Visit the Website
+-https://tic-tac-toe-five-smoky.vercel.app/
